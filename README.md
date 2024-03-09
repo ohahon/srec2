@@ -7,7 +7,7 @@ Objective:
 The objective of this report is to provide a brief overview of categorizations of sexual harassment based on common factors such as behavior, intent, and impact.
 
 Types of Sexual Harassment:
-1. **Verbal Harassment:**
+1. Verbal Harassment:
    - Involves unwelcome verbal comments, jokes, innuendos, or propositions of a sexual nature.
    - Examples include sexually explicit remarks, sexual advances, and derogatory remarks about a person's gender or sexual orientation.
 
@@ -29,6 +29,7 @@ Types of Sexual Harassment:
    - Examples include sending sexually explicit messages, spreading rumors or lies about someone's sexual behavior, or sharing intimate images without consent (revenge porn).
 
 Now our model categorized into three forms likely:
+
                                                   1.Commenting,
                                                   2.Ogling/Facial Expressions/Staring,
                                                   3.Touching /Groping.
@@ -38,6 +39,7 @@ If a girl/woman reported that she was commented by a group of people then this c
 So by this pattern various percentage categorization is done.
 
 For example:
+
              1. If the pattern is 1,0,0 the percentage will be 25% and it can be come under 'Starring' 
              2.If the pattern is 0,1,0 the percentage will be 35-65% and it can be come under 'commenting'
              3.If the pattern is 0,0,1 the percentage will be =>65% and it can be come under 'Attempt Rape'
