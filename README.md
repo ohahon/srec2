@@ -34,12 +34,16 @@ Now our model categorized into three forms likely:
                                                   3.Touching /Groping.
 So the given data can be categorized by 0's and 1's accordingly
 If a girl/woman reported that she was commented by a group of people then this can be categorized as 1,0,0.
+
 So by this pattern various percentage categorization is done.
+
 For example:
              1. If the pattern is 1,0,0 the percentage will be 25% and it can be come under 'Starring' 
              2.If the pattern is 0,1,0 the percentage will be 35-65% and it can be come under 'commenting'
              3.If the pattern is 0,0,1 the percentage will be =>65% and it can be come under 'Attempt Rape'
+             
 Likewise there are 2^3 combinations are trained through this ML model,so the accurecy rate will be approx 80%.
+
 And this all process is updated in a webpage and can be linked to the cybercrime office server,so the problem can be categorized and intimated imidetiatly to respective officer to be solved.
 
                                THANK YOU FOR READING
